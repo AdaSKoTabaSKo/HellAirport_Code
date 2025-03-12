@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <androidPackages>
+    <repositories>
+      <repository>https://s3.amazonaws.com/com.tabtale.repo/android/maven/backup</repository>
+      <repository>https://s3.amazonaws.com/com.tabtale.repo/android/maven/ttplugins</repository>
+      <repository>https://s3.amazonaws.com/com.tabtale.repo/android/maven/thirdparty</repository>
+      <repository>https://s3.amazonaws.com/moat-sdk-builds</repository>
+      <repository>https://maven.ogury.co</repository>
+      <repository>https://android-sdk.is.com</repository>
+      <repository>https://dl-maven-android.mintegral.com/repository/mbridge_android_sdk_oversea</repository>
+      <repository>https://jitpack.io</repository>
+      <repository>https://mvnrepository.com/artifact/com.inmobi.monetization/inmobi-ads</repository>
+      <repository>https://artifact.bytedance.com/repository/pangle</repository>
+    </repositories>
+    <androidPackage spec="com.tabtale.tt_plugins.android:TT_Plugins_Core:4.7.0.1.4" />
+    <androidPackage spec="com.tabtale.tt_plugins.android:TT_Plugins_Unity:4.4.0.3.1" />
+    <androidPackage spec="com.tabtale.tt_plugins.android:TT_Plugins_AppsFlyer:4.7.0.0.3" />
+    <androidPackage spec="com.tabtale.tt_plugins.android:TT_Plugins_CrashTool:4.4.0.3.1" />
+    <androidPackage spec="com.tabtale.tt_plugins.android:TT_Plugins_Privacy_Settings:4.7.0.1.4" />
+    <androidPackage spec="com.tabtale.tt_plugins.android:TT_Plugins_Analytics:0.0.0.0.493" />
+    <androidPackage spec="com.tabtale.tt_plugins.android:TT_Plugins_FirebaseAgent:0.0.0.0.493" />
+    <androidPackage spec="com.tabtale.tt_plugins.android:TT_Plugins_Remote_Config:4.4.0.3.1" />
+  </androidPackages>
+  <iosPods>
+    <sources>
+      <source>https://codecommit-ro-at-054024759590:RN1EkdaAskf1elwTA5rfWuSJtYvRvwHqRkdJN0bIfVo=@git-codecommit.us-east-1.amazonaws.com/v1/repos/CocoaPods</source>
+      <source>https://github.com/Vungle/ios-sdk-beta.git</source>
+    </sources>
+    <iosPod name="TT_Plugins_Facebook_Pod" version="4.4.0.3.1" bitcodeEnabled="false" minTargetSdk="10" addToAllTargets="false" />
+    <iosPod name="TT_Plugins_AppsFlyer_Pod" version="4.7.0.0.3" bitcodeEnabled="false" minTargetSdk="10" addToAllTargets="false" />
+    <iosPod name="TT_Plugins_Core_Pod" version="4.7.0.1.4" bitcodeEnabled="false" minTargetSdk="10" addToAllTargets="false" />
+    <iosPod name="TT_Plugins_CrashTool_Pod" version="4.4.0.3.1" bitcodeEnabled="false" minTargetSdk="10" addToAllTargets="false" />
+    <iosPod name="TT_Plugins_Privacy_Settings_Pod" version="4.7.0.1.4" bitcodeEnabled="false" minTargetSdk="10" addToAllTargets="false" />
+    <iosPod name="TT_Plugins_Remote_Config_Pod" version="4.4.0.3.1" bitcodeEnabled="false" minTargetSdk="10" addToAllTargets="false" />
+    <iosPod name="TT_Plugins_Analytics_Pod" version="0.0.0.0.493" bitcodeEnabled="false" minTargetSdk="10" addToAllTargets="false" />
+    <iosPod name="TT_Plugins_FirebaseAgent_Pod" version="0.0.0.0.493" bitcodeEnabled="false" minTargetSdk="10" addToAllTargets="false" />
+  </iosPods>
+</dependencies>

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - CashPickup
+  - PlayerPickup
+  - Player
+  - Guest
+  - 
+  - 
+  - 
+  - WallForPlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Joystick
+    uniqueID: 3158157233
+    locked: 0
+  - name: Ui
+    uniqueID: 2140333281
+    locked: 0
+  - name: Ui3D
+    uniqueID: 501266039
+    locked: 0
+  - name: TopBarCanvas
+    uniqueID: 3396887485
+    locked: 0

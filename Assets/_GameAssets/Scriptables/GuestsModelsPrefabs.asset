@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bf714feea064520a8e1bdbfea1071d2, type: 3}
+  m_Name: GuestsModelsPrefabs
+  m_EditorClassIdentifier: 
+  guestsModelsPrefabs:
+  - {fileID: 9159335683958243811, guid: cdfc6e1569917495cb9e0a245819422f, type: 3}
+  luggageModelsPrefabs:
+  - {fileID: 919132149155446097, guid: c8fc1a1c397731c46ba66645b2864a60, type: 3}
+  - {fileID: 919132149155446097, guid: 93b4ebe139528f84699ce04445a50a8c, type: 3}
+  - {fileID: 919132149155446097, guid: 2db8314b1e877734d896d8608eefaca2, type: 3}
+  - {fileID: 919132149155446097, guid: 2c836b5c292e99b48bad829f99edfa95, type: 3}
+  - {fileID: 919132149155446097, guid: 2a9651e18a4c98a41ac47686f3e39cea, type: 3}
+  - {fileID: 919132149155446097, guid: 2b8491287121f34478c8469a99a9ed7b, type: 3}
